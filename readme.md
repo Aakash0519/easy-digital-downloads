@@ -28,7 +28,7 @@ Anyone is welcome to contribute to Easy Digital Downloads. Please read the [guid
 
 There are various ways you can contribute:
 
-1. Raise an [Issue](https://github.com/easydigitaldownloads/easy-digital-downloads/issues) on GitHub
-2. Send us a Pull Request with your bug fixes and/or new features
-3. Translate Easy Digital Downloads into [different languages](http://docs.easydigitaldownloads.com/article/1023-translating-easy-digital-downloads)
-4. Provide feedback and suggestions on [enhancements](https://github.com/easydigitaldownloads/easy-digital-downloads/issues?direction=desc&labels=Enhancement&page=1&sort=created&state=open)
+1. Raise an [Issue](https://github.com/easydigitaldownloads/easy-digital-downloads/issues) on GitHub.
+2. Send us a Pull Request with your bug fixes and/or new features.
+3. Translate Easy Digital Downloads into [different languages](http://docs.easydigitaldownloads.com/article/1023-translating-easy-digital-downloads).
+4. Provide feedback and suggestions on [enhancements](https://github.com/easydigitaldownloads/easy-digital-downloads/issues?direction=desc&labels=Enhancement&page=1&sort=created&state=open).
